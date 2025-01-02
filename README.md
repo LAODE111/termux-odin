@@ -9,4 +9,4 @@ git clone https://github.com/R1punk/termux-odin
 - chmod +x install
 - ./install
 - sudo bash samflash.sh
-
+- APT cmatrix
